@@ -1,5 +1,5 @@
-### Hi there 👋
-Hola
+### Hi! I am a second year student at the University of Edinburgh studying Theoretical Physics.
+I am currently the Project Manager of Quality assurance at Hyped, developing a testing framework for the 16,000+ line C++ codebase.
 
 <!--
 **pmorande27/pmorande27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

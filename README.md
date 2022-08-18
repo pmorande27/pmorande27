@@ -6,8 +6,7 @@ I have experience in several programming languages like Python, C++, Java, Haske
 <br><br>
 I am one of the Technical Directors of HumanED, a student-led society interested in Humanoid robotics.
 <br><br>
-More about my work in: [My website](pmorande27.github.io)
-
+More about my work in: [My website](https://pmorande27.github.io/)
 <!--
 **pmorande27/pmorande27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
